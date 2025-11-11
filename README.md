@@ -23,4 +23,11 @@ It’s designed to be both a **printable template** and a **simple web app** for
 - **Framework:** React 18+ with TypeScript  
 - **Build Tool:** Vite  
 - **i18n:** i18next + react-i18next  
-- **Storage:**
+- **Storage:** Browser LocalStorage (JSON serialization)
+
+---
+
+## ⚙️ Installation
+
+```bash
+npm install
