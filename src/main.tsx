@@ -7,6 +7,7 @@ import './index.css';
 import App from './App.tsx';
 
 createRoot(document.getElementById('root')!).render(
+  //test workflow
   <StrictMode>
     <I18nextProvider i18n={i18n}>
       <ToastProvider>
