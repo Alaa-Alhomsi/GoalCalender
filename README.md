@@ -26,8 +26,3 @@ It’s designed to be both a **printable template** and a **simple web app** for
 - **Storage:** Browser LocalStorage (JSON serialization)
 
 ---
-
-## ⚙️ Installation
-
-```bash
-npm install
